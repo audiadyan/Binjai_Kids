@@ -2,8 +2,6 @@
 
 ![libraries](https://github.com/audiadyan/Binjai_Kids/blob/master/assets/bk1.png)
 ![libraries](https://github.com/audiadyan/Binjai_Kids/blob/master/assets/bk2.png)
-![libraries](https://github.com/audiadyan/Binjai_Kids/blob/master/assets/bk3.png)
-![libraries](https://github.com/audiadyan/Binjai_Kids/blob/master/assets/bk4.png)
 
 Jika anda menggunakan VSCode
 - Tambahkan Referenced Libraries terlebih dahulu <br>
